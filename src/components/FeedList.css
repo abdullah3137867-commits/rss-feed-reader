@@ -1,0 +1,10 @@
+.feed-list {
+  display: grid;
+  gap: 20px;
+}
+
+.no-feeds {
+  text-align: center;
+  color: #999;
+  padding: 40px;
+}
